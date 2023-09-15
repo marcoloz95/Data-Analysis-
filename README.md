@@ -4,7 +4,9 @@ Data Analysis work primarily through the use of Pandas and some visualizatin lib
 
 Guide: 
 
-"DA = Data Analysis \nChipo = Name of raw data file \n"
+DA = Data Analysis 
+
+Chipo = Name of raw data file 
 
 
 Thanks for stopping by!
