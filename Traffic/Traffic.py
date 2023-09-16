@@ -5,7 +5,6 @@ Created on Tue May 23 23:13:47 2023
 
 @author: marco
 """
-
 import pandas as pd
 from plotnine import *
 import matplotlib.pyplot as plt
